@@ -1,2 +1,18 @@
 # Housing-price-prediction-using-Regularised-linear-regression
-This project predicts housing prices using regularized linear regression techniques (Ridge and Lasso).   The dataset is preprocessed for missing values, categorical encoding, and feature scaling. Technologies: Python, NumPy, Pandas, Matplotlib, Scikit-learn
+###### config
+1. upload the ipynb file to Google colab
+
+2. upload the csv file to Google colab 
+
+3. run all cells
+
+
+
+
+
+###### graph of error vs lambda in gradient descent
+![g](https://raw.githubusercontent.com/SouravG/Housing-price-prediction-using-Regularised-linear-regression/master/download%20(1).png)
+
+
+###### graph of error vs lambda in Normal equation
+![g](https://raw.githubusercontent.com/SouravG/Housing-price-prediction-using-Regularised-linear-regression/master/download.png)
